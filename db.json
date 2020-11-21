@@ -2,20 +2,20 @@
   "guitars": [
     {
       "id": 1,
-      "manufacturer": "Gibson"
-      "model": "Les Paul"
+      "manufacturer": "Gibson",
+      "model": "Les Paul",
       "year": "1959"
     },
     {
       "id": 2,
-      "manufacturer": "Gibson"
-      "model": "Les Paul"
+      "manufacturer": "Gibson",
+      "model": "Les Paul",
       "year": "1957"
     },
     {
       "id": 3,
-      "manufacturer": "Gibson"
-      "model": "Flying-V"
+      "manufacturer": "Gibson",
+      "model": "Flying-V",
       "year": "1979"
     }
   ],
