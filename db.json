@@ -1,0 +1,42 @@
+{
+  "guitars": [
+    {
+      "id": 1,
+      "manufacturer": "Gibson"
+      "model": "Les Paul"
+      "year": "1959"
+    },
+    {
+      "id": 2,
+      "manufacturer": "Gibson"
+      "model": "Les Paul"
+      "year": "1957"
+    },
+    {
+      "id": 3,
+      "manufacturer": "Gibson"
+      "model": "Flying-V"
+      "year": "1979"
+    }
+  ],
+  "guitarDetails": [
+    {
+      "id": 1,
+      "details": "some details about the guitar",
+      "guitarId": 1
+    },
+    {
+      "id": 2,
+      "details": "some details about the guitar",
+      "guitarId": 2
+    },
+    {
+      "id": 3,
+      "details": "some details about the guitar",
+      "guitarId": 3
+    }
+  ],
+  "profile": {
+    "name": "virtuosoftware"
+  }
+}
