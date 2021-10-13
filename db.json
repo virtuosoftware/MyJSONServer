@@ -1,4 +1,18 @@
 {
+  "cars": [
+      {
+        "name": "car1",
+        "id": 1
+      },
+      {
+        "name": "car2",
+        "id": 2
+      },
+      {
+        "name": "car3",
+        "id": 3
+      },
+    ],
   "guitars": [
     {
       "id": 1,
